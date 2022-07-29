@@ -11,7 +11,7 @@ I have some works with **JavaScript**, **Node.js** and **C#**, contact me if you
 
 ## 📫 Contact Me on Social Media
 
-[Facebook][-1] | [LinkedIn][0] or just ✉️ [Email](aviv27400@gmail.com) | 💬 [Issue](https://github.com/AvivSoftware/issues/me) Me about everything!
+[Facebook][-1] | [LinkedIn][0] or just ✉️ [Email](aviv27400@gmail.com) | 💬 [Issue](https://github.com/AvivMark/issues/me) Me about everything!
 
 ## 💡 Projects with My Work
 
@@ -20,7 +20,7 @@ I have some works with **JavaScript**, **Node.js** and **C#**, contact me if you
 ## 💻 Open Source Work Stats
 
 
-![Aviv's Github stats](https://github-readme-stats.vercel.app/api?username=AvivSoftware&show_icons=true)
+![Aviv's Github stats](https://github-readme-stats.vercel.app/api?username=AvivMark&show_icons=true)
 
 [-1]: https://www.facebook.com/avivmark/
 [0]: https://www.linkedin.com/in/aviv-mark-724a7b1ba/
